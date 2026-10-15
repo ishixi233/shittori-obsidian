@@ -1,6 +1,6 @@
 # Matsuba 松叶
 
-Matsuba 是 Shittori 系列的 Obsidian 主题，适合中文长文和中英混排笔记的 Obsidian 主题。浅色用暖纸白和松叶绿，深色用蓝灰和浅蓝；通过字号、字重和留白区分层级，让颜色留给链接、高亮和提示。
+Matsuba 是 Shittori 系列的 Obsidian 主题，适合中文长文和中英混排笔记。浅色用暖纸白和松叶绿，深色用蓝灰和浅蓝；通过字号、字重和留白区分层级，让颜色留给链接、高亮和提示。
 
 [全平台项目](https://github.com/ishixi233/shittori) · [下载](https://github.com/ishixi233/shittori-obsidian/releases/tag/1.0.1) · [反馈问题](https://github.com/ishixi233/shittori-obsidian/issues)
 
